@@ -1,7 +1,7 @@
 class Product {
-  sku: string;
-  name: string;
-  price: number;
+  public sku: string;
+  public name: string;
+   public price: number;
 
   constructor(sku: string, name: string, price: number) {
     this.sku = sku;
