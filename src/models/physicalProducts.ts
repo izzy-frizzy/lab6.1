@@ -1,4 +1,4 @@
-import Product from "./products.ts";
+import Product from "./products.js";
 
 //const p1 = new Product("1qysdkfni3o", "tv", 700);
 

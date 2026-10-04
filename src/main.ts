@@ -1,5 +1,5 @@
-import physicalProducts from "./models/physicalProducts.ts";
-import digitalProducts from "./models/digitalProducts.ts";
+import physicalProducts from "./models/physicalProducts.js";
+import digitalProducts from "./models/digitalProducts.js";
 
 
 let product1 = new physicalProducts("dmwow","tv", 700, 50);
